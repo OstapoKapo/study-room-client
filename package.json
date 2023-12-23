@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
